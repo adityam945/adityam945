@@ -22,12 +22,6 @@
 - ⚡ Fun fact **Love Gaming <3 Lets Queue a Game on Counter-Strike**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aditya-madhusudhan-a57790183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-madhusudhan-a57790183/" height="30" width="40" /></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  <a href="https://portfolio-adityam945.vercel.app/"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-</p>
-
 <!-- Social icons section -->
 <p align="center">
   
