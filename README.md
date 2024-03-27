@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <!-- Social icons section -->
-<p align="center" style="display:flex; flex-direction:row">
+<div align="center" style="display:flex; flex-direction:row">
   
   <a href="https://www.linkedin.com/in/aditya-madhusudhan-a57790183/e/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -33,7 +33,7 @@
  
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
-</p>
+</div>
 <!--
 **adityam945/adityam945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
