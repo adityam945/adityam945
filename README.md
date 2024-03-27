@@ -4,7 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+Software+Engineer;Love+Solving+Real+World+Problems;Master's+in+Computer+Science;Full+Stack+Developer;Cloud+Technologies"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devi262&label=Profile%20views&color=0e75b6&style=flat" alt="devi262" /> </p>
-- 🔭 I’m working on **Resource Scheduling Application**
+
+- 🔭 I’m working on **Resouce Scheduling & Optimization Application**
 
 - 🌱 I’m currently learning **SnowFlake, AWS Cloud Services**
 
