@@ -27,6 +27,19 @@
 
   <a href="https://portfolio-adityam945.vercel.app/"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
 </p>
+
+<!-- Social icons section -->
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/aditya-madhusudhan-a57790183/e/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+ 
+  <a href="https://portfolio-adityam945.vercel.app/"><img width="32px" alt="Dev.to" title="Protfolio" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+ 
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
 <!--
 **adityam945/adityam945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
