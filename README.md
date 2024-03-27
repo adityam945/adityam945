@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <!-- Social icons section -->
-<div style="display:flex; flex-direction:row">
+<div>
   
   <a href="https://www.linkedin.com/in/aditya-madhusudhan-a57790183/e/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
