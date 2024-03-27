@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Projects to Solve Real World Problem**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Devi262/ (currently under development)](https://github.com/Devi262/ (currently under development))
+- 👨‍💻 All of my projects are available at [https://github.com/adityam945 (currently under development)](https://github.com/adityam945 (currently under development))
 
 - 💬 Ask me about **Java, Python, JavaScript, NodeJS, RESTFul APIs, Springboot, ReactJS, NextJS, AWS, Lambda, DynamoDB, MySQL, OracleDB, Postman, Cloud, DevOps**
 
