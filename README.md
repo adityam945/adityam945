@@ -5,17 +5,17 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityam945&label=Profile%20views&color=0e75b6&style=flat" alt="adityam945" /> </p>
 
-- 🔭 I’m working on **Resouce Scheduling & Optimization Application**
+- 🔭 I’m working on **Developing realtime intelligence to track PEOPLE and OBJECTs in RTSPs**
 
-- 🌱 I’m currently learning **SnowFlake, AWS Cloud Services**
+- 🌱 I’m currently learning **CUDA GPU programming and RAGs**
 
 - 👯 I’m looking to collaborate on **Projects to Solve Real World Problem**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityam945 (currently under development)](https://github.com/adityam945 (currently under development))
 
-- 💬 Ask me about **Java, Python, JavaScript, NodeJS, RESTFul APIs, Springboot, ReactJS, NextJS, AWS, Lambda, DynamoDB, MySQL, OracleDB, Postman, Cloud, DevOps**
+- 💬 Ask me about **Designing and Developing End-to-End Systems**
 
-- 📫 How to reach me **adityamadhusudhan945@gmail.com**
+- 📫 How to reach me **adityam945@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-adityam945.vercel.app/](https://portfolio-adityam945.vercel.app/)
 
